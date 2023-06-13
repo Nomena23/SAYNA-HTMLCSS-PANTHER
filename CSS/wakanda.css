@@ -1,20 +1,20 @@
-/* FEUILLE DE STYLE SPECIALEMENT POUR LA PAGE WAKANDA */
-/* Definition des typographies  */
+/* STYLE  POUR LA PAGE WAKANDA */
+/* Typographies  */
 @font-face {
     font-family: "beyno";
-    src: url("fonts/Beyno.ttf");
+    src: url("../Fonts/Beyno.ttf");
 }
 @font-face {
     font-family: "cantarell";
-    src: url("fonts/Cantarell.ttf");
+    src: url("../Fonts/Cantarell.ttf");
 }
 @font-face {
     font-family: "panthera";
-    src: url("fonts/panthera.otf");
+    src: url("../Fonts/panthera.otf");
 }
 @font-face {
     font-family: "WakandaForever";
-    src: url("fonts/WakandaForever.ttf");
+    src: url("../Fonts/WakandaForever.ttf");
 }
 /* Fin typographies */
 /* Style global */

@@ -1,19 +1,19 @@
 /* typographies  */
 @font-face {
     font-family: "beyno";
-    src: url("fonts/Beyno.ttf");
+    src: url("../Fonts/Beyno.ttf");
 }
 @font-face {
     font-family: "cantarell";
-    src: url("fonts/Cantarell.ttf");
+    src: url("../Fonts/Cantarell.ttf");
 }
 @font-face {
     font-family: "panthera";
-    src: url("fonts/panthera.otf");
+    src: url("../Fonts/panthera.otf");
 }
 @font-face {
     font-family: "WakandaForever";
-    src: url("fonts/WakandaForever.ttf");
+    src: url("../Fonts/WakandaForever.ttf");
 }
 /* Fin typo */
 /* style global */
@@ -49,7 +49,7 @@ p {
     color: var(--white-primaire);
 }
 body {
-    background-image: url("./Illustrations + Logo/All pages/arrière_plan.png");
+    background-image: url("../Illustrations + Logo/All pages/arrière_plan.png");
     /* height: 100%; */
     background-position: center;
     background-repeat: no-repeat;
@@ -102,7 +102,7 @@ header .menu .active {
 /* Fin Header */
 /* Section black panther */
 .section-panther {
-    background-image: url("./Illustrations + Logo/Accueil/Pantherhome1..png");
+    background-image: url("../Illustrations + Logo/Accueil/Pantherhome1..png");
     background-size: contain;
     background-position: bottom right;
     background-repeat: no-repeat;
@@ -268,7 +268,7 @@ header .menu .active {
 /* Section CONTACT  */
 
 #contact {
-    background-image: url("./Illustrations + Logo/Accueil/Pantherhome7.png");
+    background-image: url("../Illustrations + Logo/Accueil/Pantherhome7.png");
     background-size: contain;
     background-size: cover;
     background-repeat: no-repeat;
@@ -317,7 +317,7 @@ header .menu .active {
 
 /* Footer */
 footer {
-    background-image: url("./Illustrations + Logo/All pages/back_footer.png");
+    background-image: url("../Illustrations + Logo/All pages/back_footer.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -327,7 +327,7 @@ footer {
     padding: 80px 0px;
 }
 footer .logo-footer {
-    background-image: url("./Illustrations + Logo/All pages/footer1.png");
+    background-image: url("../Illustrations + Logo/All pages/footer1.png");
     background-size: 100%;
     background-repeat: no-repeat;
     height: 385px;

@@ -1,20 +1,20 @@
-/* FEUILLE DE STYLE SPECIALEMENT POUR LA PAGE ENIGME */
+/* STYLE POUR LA PAGE ENIGME */
 /* typographies  */
 @font-face {
     font-family: "beyno";
-    src: url("fonts/Beyno.ttf");
+    src: url("../Fonts/Beyno.ttf");
 }
 @font-face {
     font-family: "cantarell";
-    src: url("fonts/Cantarell.ttf");
+    src: url("../Fonts/Cantarell.ttf");
 }
 @font-face {
     font-family: "panthera";
-    src: url("fonts/panthera.otf");
+    src: url("../Fonts/panthera.otf");
 }
 @font-face {
     font-family: "WakandaForever";
-    src: url("fonts/WakandaForever.ttf");
+    src: url("../Fonts/WakandaForever.ttf");
 }
 /* Fin typos */
 /* Structuration globale */
@@ -36,7 +36,7 @@ label {
 /* fin structuration globale */
 /* section defi */
 #defi {
-    background-image: url("./Illustrations + Logo/Enigme/Pantherenigme1.png");
+    background-image: url("../Illustrations + Logo/Enigme/Pantherenigme1.png");
     background-size: 80%;
     background-position: bottom left -10%;
     background-repeat: no-repeat;
@@ -57,7 +57,7 @@ label {
     letter-spacing: 0.09em;
 }
 .texte-defi .description {
-    background-image: url("./Illustrations + Logo/Enigme/Pantherenigme2.png");
+    background-image: url("../Illustrations + Logo/Enigme/Pantherenigme2.png");
     background-size: 100%;
     background-repeat: no-repeat;
     height: 385px;
@@ -127,7 +127,7 @@ label {
 }
 
 .content-enigme .info-enigme {
-    background-image: url("./Illustrations + Logo/Enigme/Pantherenigme2.png");
+    background-image: url("../Illustrations + Logo/Enigme/Pantherenigme2.png");
     background-size: 100%;
     background-repeat: no-repeat;
     height: 385px;
