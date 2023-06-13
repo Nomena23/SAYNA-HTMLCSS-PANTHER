@@ -30,7 +30,7 @@
 /* Fin style global */
 /* section wakanda */
 #wakanda {
-    background-image: url("./Illustrations + Logo/Wakanda/Pantherwakanda1.png");
+    background-image: url("../Illustrations + Logo/Wakanda/Pantherwakanda1.png");
     background-size: 120%;
     background-position: center;
     background-repeat: no-repeat;
@@ -63,7 +63,7 @@
 /* Fin section introduction wakanda */
 /* Definition feuille de style section à propos */
 #a-propos {
-    background-image: url("./Illustrations + Logo/Wakanda/Pantherwakanda2.png");
+    background-image: url("../Illustrations + Logo/Wakanda/Pantherwakanda2.png");
     background-position: 0% -10%;
     background-size: 95%;
     background-repeat: no-repeat;
@@ -98,7 +98,7 @@
 
 @media (max-width: 800px) {
     #wakanda {
-        background-image: url("./Illustrations + Logo/Wakanda/Pantherwakanda1.png");
+        background-image: url("../Illustrations + Logo/Wakanda/Pantherwakanda1.png");
         background-size: cover;
         background-position: center;
         margin-top: 10px;
