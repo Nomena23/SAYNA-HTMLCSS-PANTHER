@@ -83,6 +83,10 @@ header .logo-header {
 header .logo-header img {
     margin: 5px;
 }
+header .logo-header img:hover{
+    opacity: 0; 
+    color: var(--white-violet-1);
+}
 header .menu ul li {
     display: inline-block;
     margin: 25px;
@@ -97,7 +101,7 @@ header .menu ul li a {
 header .menu ul li a:hover,
 header .menu .active {
     text-decoration: underline;
-    color: var(--violet-secondaire);
+    color: var(--white-violet-1);
 }
 /* Fin Header */
 /* Section black panther */
@@ -138,6 +142,10 @@ header .menu .active {
     margin: 0px;
     margin: 10px 10px;
     padding-top: 5px;
+}
+.section-panther .social-logo .icon-social img:hover{
+        opacity: 0; 
+        color: var(--white);
 }
 .section-panther .intro-panther {
     margin-left: 12%;
@@ -337,6 +345,10 @@ footer .logo-footer {
     justify-content: center;
     margin-right: 50px;
 }
+footer .logo-footer img:hover{
+    opacity: 0; 
+    color: var(--white-violet-1);
+}
 footer .policies {
     display: flex;
     flex-direction: column;
@@ -424,6 +436,10 @@ footer .policies {
     }
     .policies .condition-right {
         margin-top: 10px;
+    }
+    footer .pages li a:hover{
+text-decoration: underline;
+color: var(--white);
     }
     /* fin footer */
     .section-panther .intro-panther {
